@@ -82,7 +82,7 @@ namespace RTSLabApp
             }
             Console.WriteLine("output:");
             //Return the stringRotation method output
-            return new CodingExercise().stringRotation(stringValue, int.Parse(rotationValue));
+            return CodingExercise.stringRotation(stringValue, int.Parse(rotationValue));
         }
 
         public static string AboveBelowTest()
@@ -108,7 +108,7 @@ namespace RTSLabApp
             }
             Console.WriteLine("output:");
             //Return the aboveBelow method ouput
-            return new CodingExercise().aboveBelow(list, int.Parse(separatedInput[1]));
+            return CodingExercise.aboveBelow(list, int.Parse(separatedInput[1]));
         }
 
         public static bool Validate(string input, bool isAboveBelow)

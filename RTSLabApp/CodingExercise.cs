@@ -14,7 +14,7 @@ namespace RTSLabApp
             below = 0;
         }
 
-        public string aboveBelow(List<int> list, int compare)
+        public static string aboveBelow(List<int> list, int compare)
         { 
             CodingExercise exercise = new CodingExercise();
             foreach(var item in list)
@@ -31,7 +31,7 @@ namespace RTSLabApp
             return JsonConvert.SerializeObject(exercise);
         }
 
-        public string stringRotation(string originalString, int rotationAmount)
+        public static string stringRotation(string originalString, int rotationAmount)
         {
             for(int i = 0; i < rotationAmount; i++)
             {
