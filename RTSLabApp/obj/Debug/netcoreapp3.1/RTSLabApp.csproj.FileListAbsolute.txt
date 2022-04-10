@@ -1,0 +1,16 @@
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\bin\Debug\netcoreapp3.1\RTSLabApp.exe
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\bin\Debug\netcoreapp3.1\RTSLabApp.deps.json
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\bin\Debug\netcoreapp3.1\RTSLabApp.runtimeconfig.json
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\bin\Debug\netcoreapp3.1\RTSLabApp.runtimeconfig.dev.json
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\bin\Debug\netcoreapp3.1\RTSLabApp.dll
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\bin\Debug\netcoreapp3.1\RTSLabApp.pdb
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\obj\Debug\netcoreapp3.1\RTSLabApp.csproj.AssemblyReference.cache
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\obj\Debug\netcoreapp3.1\RTSLabApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\obj\Debug\netcoreapp3.1\RTSLabApp.AssemblyInfoInputs.cache
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\obj\Debug\netcoreapp3.1\RTSLabApp.AssemblyInfo.cs
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\obj\Debug\netcoreapp3.1\RTSLabApp.csproj.CoreCompileInputs.cache
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\obj\Debug\netcoreapp3.1\RTSLabApp.dll
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\obj\Debug\netcoreapp3.1\RTSLabApp.pdb
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\obj\Debug\netcoreapp3.1\RTSLabApp.genruntimeconfig.cache
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jrios\source\repos\RTSLabApp\RTSLabApp\obj\Debug\netcoreapp3.1\RTSLabApp.csproj.CopyComplete
